@@ -2,5 +2,5 @@
 
 ## Captura menu:
 
-![](capturas/captura.PNG)    
+![](capturas/captura.png)   
 
