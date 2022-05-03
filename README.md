@@ -1,6 +1,6 @@
 # Gestion Club de Mascotas 
 
-## Captura menu:
+## Captura del menu:
 
 ![](capturas/captura.png)   
 
